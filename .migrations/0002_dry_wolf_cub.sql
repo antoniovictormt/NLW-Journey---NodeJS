@@ -1,0 +1,1 @@
+ALTER TABLE "participants" ALTER COLUMN "name" SET NOT NULL;
